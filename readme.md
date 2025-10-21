@@ -1,6 +1,7 @@
-<img width="64" height="64" alt="character1" src="https://github.com/user-attachments/assets/0bef1677-59be-47d1-9fc4-8f9d2b81f118" /># Anime Face Generator with DCGAN
+# Anime Face Generator with DCGAN
 
  基于DCGAN的动漫头像生成
+<img width="64" height="64" alt="character1" src="https://github.com/user-attachments/assets/0bef1677-59be-47d1-9fc4-8f9d2b81f118" /><img width="64" height="64" alt="character4" src="https://github.com/user-attachments/assets/52fd639d-f8f6-4247-99a5-7bef4bebaec3" />
 
 *64x64分辨率生成效果示例*
 
