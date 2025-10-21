@@ -34,9 +34,7 @@
 pip install torch torchvision matplotlib numpy pillow
 ```
 
-### 预训练模型下载
 
-下载生成器模型文件 [Generator.pth](https://example.com/generator.pth) 放置于项目根目录
 
 ### 一键生成
 
@@ -87,4 +85,5 @@ python main.py \
 >| `--continue`   | 从断点继续训练                 | False                      |
 
 >| `--model_path` | 续训时模型路径                 | ./checkpoints/G_latest.pth |
+
 
