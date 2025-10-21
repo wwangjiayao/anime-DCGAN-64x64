@@ -1,8 +1,7 @@
-# Anime Face Generator with DCGAN
+<img width="64" height="64" alt="character1" src="https://github.com/user-attachments/assets/0bef1677-59be-47d1-9fc4-8f9d2b81f118" /># Anime Face Generator with DCGAN
 
  基于DCGAN的动漫头像生成
 
-![示例图片](./images/character1.png) ![示例图片](./images/character4.png) ![示例图片](./images/character32.png)  ![示例图片](./images/character2.png) 
 *64x64分辨率生成效果示例*
 
 ## 📂 文件结构
@@ -83,4 +82,5 @@ python main.py \
 >| `--epoch`      | 训练迭代轮次                   | 50                         |
 >| `--device`     | 计算设备（cuda/cpu）           | cpu                        |
 >| `--continue`   | 从断点继续训练                 | False                      |
+
 >| `--model_path` | 续训时模型路径                 | ./checkpoints/G_latest.pth |
